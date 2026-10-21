@@ -212,6 +212,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Pearl](https://mcp.pearl.com)** - Official MCP Server to interact with Pearl API. Connect your AI Agents with 12,000+ certified experts instantly.
 - **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
 - **[Perplexity](https://github.com/ppl-ai/modelcontextprotocol)** - An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI.
+- **[Pingoru](https://pingoru.io/features/mcp)** - Remote MCP server for cloud and SaaS vendor status: live status, components, incidents and maintenance windows across 8,000+ official status pages. Public endpoint needs no key; a Pro key adds your own monitors and alerts.
 - **[PGYER](https://github.com/PGYER/pgyer-mcp-server)** - MCP Server for [PGYER](https://www.pgyer.com/) platform, supports uploading, querying apps, etc.
 - **[PlainSignal](https://github.com/plainsignal/plainsignal-mcp)** - Official MCP server that connects to PlainSignal's API and querying realtime website analytics data in conversational AI.
 - **[Plane](https://github.com/makeplane/plane-mcp-server)** - The official Plane MCP server provides integration with Plane APIs, enabling full AI automation of Plane projects, work items, cycles and more.
